@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219093671181",
+    "project_id": "integracao-b6b60",
+    "storage_bucket": "integracao-b6b60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219093671181:android:95c752d673b9fb6845e444",
+        "android_client_info": {
+          "package_name": "com.example.integracao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKjq5H3RI8FeFMtcgUj9U19wM18BzI6Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
